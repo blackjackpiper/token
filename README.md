@@ -1,4 +1,10 @@
-
+## DSurv
+A web-application inspired by Curv Finance, a decentralized exchange (DEX) that
+focuses on stablecoin trading  
+-Gives a new user 10,000 NAND tokens for free to their wallet.
+-Option to check the current balance of a user’s wallet using their principal id.
+-Can transfer tokens from one user’s wallet to another using principal ids.
+-Persistent across refreshes
 # To Deploy
 
 1. Find out your principal id:
